@@ -1,0 +1,1 @@
+<p>Your donation supports projects like<br><a target="nw" href="https://yourprojecturl.com">yourproject</a>. For more info visit<br>your project website at <a target="nw" href="http://yourproject">yourproject.com</a><br></p>
