@@ -1,11 +1,1 @@
-<h2>Project Headline Info </h2>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
-dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-
-<h3>Project Subheader</h3>
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
-dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<h1><span style="font-size: 19.2px;">FreeCoin Fund</span></h1><h1>Why donate?</h1><p>Explain why someone may wish to donate.</p><b>Edit this document before pushing save.</b><p>Use this tool to make edits and updates to your existing fundraiser such as including links to <a href="http://yours.org">http://yours.org</a> updates.</p><h1>How will the funds be attributed?</h1><p>Describe how funds will be used by using a list</p><ol><li>First way funds will be used</li><li>Second way that they may be allocated</li><li>etc.</li></ol><h1>What does others support mean to you or your project?</h1><p>Describe the answer to that question</p><h1>In what way can you prove your project is legitimate?</h1><p>Describe some ways, such as linking to personal profiles and more.</p><h1>Why have you decided to fundraise, what motivated you to start?</h1><p>Describe what motivated you to begin</p><h1>Thank those who help with your fundraiser</h1><p>Take a moment to give thanks for considering to donate and explain how encouraging the support is.</p><br>
